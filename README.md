@@ -110,3 +110,4 @@ Since you just learned zehn, prepare to use it a lot. Just like the -teen ending
 
 ein Meter = 1m
 ein Zentimeter = 1cm
+ein Meter fünfzehn = 1,15m
