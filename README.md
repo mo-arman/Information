@@ -107,3 +107,5 @@ Numeral	 German number	   Pronunciation
 Let’s meet arguably the best two German numbers: elf and zwölf. These numbers remind most people of Lord of the Rings or other fantasy lore, with elves and wolves. Zwölf is fun to say once you get the hang of it: practice stringing all the sounds together slowly: ts-voo-lf.
 
 Since you just learned zehn, prepare to use it a lot. Just like the -teen ending in English, German uses -zehn to cap off all numbers 13 through 19. Dreizehn, vierzehn, fünfzehn, you’ll soon get the pattern.
+
+ein Meter = 1m
