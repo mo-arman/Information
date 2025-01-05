@@ -112,3 +112,4 @@ ein Meter = 1m
 ein Zentimeter = 1cm
 ein Meter fünfzehn = 1,15m
 zweihundert Kilometer  = 2km
+ein Quadratmeter  = 1m square of 2
