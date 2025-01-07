@@ -116,7 +116,3 @@ ein Quadratmeter  = 1m square of 2
 ein	Grad	unter	Null/minus	ein	Grad
 vier	Grad	über	Null/plus	vier	Grad 
 ein Prozent 
-ein Liter 
-ein Gramm 
-ein Pfund 
-ein	Kilo(gramm)
