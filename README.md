@@ -109,6 +109,19 @@ Let’s meet arguably the best two German numbers: elf and zwölf. These numbers
 Since you just learned zehn, prepare to use it a lot. Just like the -teen ending in English, German uses -zehn to cap off all numbers 13 through 19. Dreizehn, vierzehn, fünfzehn, you’ll soon get the pattern.
 
 
+ein Meter = 1m
+ein Zentimeter = 1cm
+ein Meter fünfzehn = 1,15m
+zweihundert Kilometer  = 2km
+ein Quadratmeter  = 1m square of 2
+ein	Grad	unter	Null/minus	ein	Grad
+vier	Grad	über	Null/plus	vier	Grad 
+ein Prozent 
+ein Liter 
+ein Gramm 
+ein Pfund 
+ein	Kilo(gramm)
+
 ein
 zwai
 drei
