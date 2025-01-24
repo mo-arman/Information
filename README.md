@@ -128,3 +128,20 @@ zwai
 drei
 vier
 
+1. Word: Danke
+    - Meaning: Thanks
+    - Pronunciation: DAHN-keh
+2. Word: Freitag
+    - Meaning: Friday
+    - Pronunciation: FRY-tahg
+3. Word: Bibliothek
+    - Meaning: Library
+    - Pronunciation: BEE-blee-oh-tehk
+4. Word: Schönes Wetter
+    - Meaning: Beautiful weather
+    - Pronunciation: SHUR-nahs VEH-tah
+5. Word: Auf Wiedersehen
+    - Meaning: Goodbye
+    - Pronunciation: OW-fee-DA-gen
+Want more, Arman?
+
