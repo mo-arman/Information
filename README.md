@@ -145,3 +145,19 @@ vier
     - Pronunciation: OW-fee-DA-gen
 Want more, Arman?
 
+1. Word: Haus
+    - Meaning: House
+    - Pronunciation: HAUS
+2. Word: Familie
+    - Meaning: Family
+    - Pronunciation: FAH-mee-lee-uh
+3. Word: Freund
+    - Meaning: Friend
+    - Pronunciation: FROYNT
+4. Word: Schule
+    - Meaning: School
+    - Pronunciation: SHOO-luh
+5. Word: Lehrer
+    - Meaning: Teacher
+    - Pronunciation: LAY-her
+
