@@ -122,7 +122,10 @@ ein Gramm
 ein Pfund 
 ein	Kilo(gramm)
 
-
+ein
+zwai
+drei
+vier
 
 
 1. Word: Danke
