@@ -169,5 +169,10 @@ Want more, Arman?
 8. Word: Kunst
     - Meaning: Art
     - Pronunciation: KOONST
-
+9. Word: Restaurant
+    - Meaning: Restaurant
+    - Pronunciation: RES-toh-rahnt
+10. Word: Strand
+    - Meaning: Beach
+    - Pronunciation: SHTRAHNT
 
